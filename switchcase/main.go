@@ -32,7 +32,7 @@ func main() {
 	case 6:
 		fmt.Println("You can move to spot 6 and roll the dice again")
 	default:
-		fmt.Println("What was that")
+		fmt.Println("What was that!!!!")
 	}
 
 }
